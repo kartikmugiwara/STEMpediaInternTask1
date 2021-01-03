@@ -1,6 +1,6 @@
 # STEMpediaInternTask1
 
-### About
+# About
 This library helps in setting up PWM on different pins of ESP32 in Arduino IDE without worrying about the channel allocation for different pins.
 
 # Usage
