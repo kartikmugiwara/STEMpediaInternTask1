@@ -1,3 +1,4 @@
+
 #######################################
 # Syntax Coloring Map For PWM
 #######################################
@@ -6,18 +7,18 @@
 # Datatypes (KEYWORD1)
 #######################################
  
-pwm KEYWORD1
+pwm	KEYWORD1
  
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
  
-getChannel KEYWORD2
-setAllFrequency KEYWORD3
-setAllResolution KEYWORD4
-setPinFrequency KEYWORD5
-setPinResolution KEYWORD6
-setPWM KEYWORD7
+getChannel	KEYWORD2
+setAllFrequency	KEYWORD3
+setAllResolution	KEYWORD4
+setPinFrequency	KEYWORD5
+setPinResolution	KEYWORD6
+setPWM	KEYWORD7
  
 #######################################
 # Constants (LITERAL1)
