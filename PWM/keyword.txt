@@ -1,5 +1,5 @@
 #######################################
-# Syntax Coloring Map For Blink
+# Syntax Coloring Map For PWM
 #######################################
  
 #######################################
@@ -12,10 +12,13 @@ pwm KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
  
-pwmFade KEYWORD2
+getChannel KEYWORD2
+setAllFrequency KEYWORD3
+setAllResolution KEYWORD4
+setPinFrequency KEYWORD5
+setPinResolution KEYWORD6
+setPWM KEYWORD7
  
 #######################################
 # Constants (LITERAL1)
-#######################################
-#ON LITERAL1    
-#OFF LITERAL1   
+#######################################  
