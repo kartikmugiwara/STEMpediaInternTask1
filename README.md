@@ -1,4 +1,4 @@
-# STEMpediaInternTask1
+# Task 1
 
 # About
 This library helps in setting up PWM on different pins of ESP32 in Arduino IDE without worrying about the channel allocation for different pins. As analogWrite does not work with ESP32, this library tries to emulate the same using the LEDC library functions.
